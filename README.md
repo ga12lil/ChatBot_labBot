@@ -1,4 +1,4 @@
-# TG_Bot_LM_Studio_example_1
+# ChatBot_labBot
  
 Репозиторий содержит скрипт для запуска телеграм бота
 
